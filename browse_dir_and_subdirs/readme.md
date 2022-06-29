@@ -1,4 +1,4 @@
-# Pbrowse_dir_and_subdir(s)
+# browse_dir_and_subdir(s)
 
 Copy and paste the **browse_dir_and_subdir(s).py** in any of your directory
 
