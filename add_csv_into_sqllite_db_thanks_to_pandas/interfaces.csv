@@ -1,0 +1,11 @@
+interface,name,state,line,mac,ip,mask
+Ethernet0/0,none,up,up,4055.398f.58b8,unassigned,none
+Ethernet0/1,none,down,down,4055.398f.58b9,unassigned,none
+Ethernet0/2,none,down,down,4055.398f.58ba,unassigned,none
+Ethernet0/3,none,down,down,4055.398f.58bb,unassigned,none
+Ethernet0/4,none,down,down,4055.398f.58bc,unassigned,none
+Ethernet0/5,none,down,down,4055.398f.58bd,unassigned,none
+Ethernet0/6,none,down,down,4055.398f.58be,unassigned,none
+Ethernet0/7,none,up,up,4055.398f.58bf,unassigned,none
+Vlan1,inside,up,up,4055.398f.58c0,192.168.100.1,255.255.255.0
+Vlan2,outside,up,up,4055.398f.58c0,192.168.1.10,255.255.255.0
