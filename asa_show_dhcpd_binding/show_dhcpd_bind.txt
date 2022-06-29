@@ -1,0 +1,9 @@
+
+IP address       Client Identifier        Lease expiration        Type
+
+192.168.100.110    0140.831d.0ad3.a7            2379 seconds    Automatic
+192.168.100.117    01f8.633f.b313.34            2097 seconds    Automatic
+192.168.100.136    01b8.27eb.b61f.25            2761 seconds    Automatic
+192.168.100.138    0134.af2c.d3c5.e4             602 seconds    Automatic
+192.168.100.149    0108.4fa9.f4e9.48            2205 seconds    Automatic
+192.168.100.172    01f0.9e63.81ed.6e            3195 seconds    Automatic

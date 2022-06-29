@@ -1,0 +1,16 @@
+object service Host_Port-1
+service udp source range 1 8191
+object service Host_Port-2
+service udp source range 8191 16384
+object service Host_Port-3
+service udp source range 16385 24576
+object service Host_Port-4
+service udp source range 24577 32768
+object service Host_Port-5
+service udp source range 32769 40960
+object service Host_Port-6
+service udp source range 40961 49152
+object service Host_Port-7
+service udp source range 49153 57344
+object service Host_Port-8
+service udp source range 57345 65535
